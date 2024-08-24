@@ -8,7 +8,8 @@
 
 # Packages are installed after nodes so we can fix them...
 
-#DEFAULT_WORKFLOW="https://..."
+DEFAULT_WORKFLOW="https://raw.githubusercontent.com/ai-dock/comfyui/main/config/workflows/flux-comfyui-example.json"
+
 
 APT_PACKAGES=(
     #"package-1"
