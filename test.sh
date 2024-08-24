@@ -33,7 +33,7 @@ CHECKPOINT_MODELS=(
 )
 
 UNET_MODELS=(
-    "https://huggingface.co/black-forest-labs/FLUX.1-dev/resolve/main/flux1-dev.safetensors"
+    "https://huggingface.co/black-forest-labs/FLUX.1-schnell/resolve/main/flux1-schnell.safetensors"
 )
 
 LORA_MODELS=(
@@ -44,7 +44,7 @@ VAE_MODELS=(
     #"https://huggingface.co/stabilityai/sd-vae-ft-ema-original/resolve/main/vae-ft-ema-560000-ema-pruned.safetensors"
     #"https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.safetensors"
     #"https://huggingface.co/stabilityai/sdxl-vae/resolve/main/sdxl_vae.safetensors"
-    "https://huggingface.co/black-forest-labs/FLUX.1-dev/resolve/main/ae.safetensors"
+    "https://huggingface.co/black-forest-labs/FLUX.1-schnell/resolve/main/ae.safetensors"
 )
 
 ESRGAN_MODELS=(
