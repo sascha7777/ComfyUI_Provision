@@ -25,8 +25,8 @@ NODES=(
     "https://github.com/ltdrdata/ComfyUI-Manager"
     "https://github.com/cubiq/ComfyUI_essentials"
     "https://github.com/ltdrdata/ComfyUI-Impact-Pack"
-    #"https://github.com/ssitu/ComfyUI_UltimateSDUpscale"
-    #"https://github.com/cubiq/ComfyUI_IPAdapter_plus"
+    "https://github.com/ssitu/ComfyUI_UltimateSDUpscale"
+    "https://github.com/cubiq/ComfyUI_IPAdapter_plus"
     "https://github.com/kijai/ComfyUI-KJNodes"
 )
 
