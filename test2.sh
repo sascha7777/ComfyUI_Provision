@@ -154,6 +154,9 @@ function provisioning_get_nodes() {
         fi
     done
 
+    cd /opt/environments/python/comfyui/bin
+    source activate
+
     python /opt/ComfyUI/custom_nodes/ComfyUI-Manager/cm-cli.py install ComfyUI-Impact-Pack ComfyUI_essentials ComfyUI_UltimateSDUpscale ComfyUI_IPAdapter_plus ComfyUI-KJNodes
 }
 
