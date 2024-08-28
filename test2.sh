@@ -53,6 +53,7 @@ ESRGAN_MODELS=(
     #"https://huggingface.co/FacehugmanIII/4x_foolhardy_Remacri/resolve/main/4x_foolhardy_Remacri.pth"
     #"https://huggingface.co/Akumetsu971/SD_Anime_Futuristic_Armor/resolve/main/4x_NMKD-Siax_200k.pth"
     "https://huggingface.co/lokCX/4x-Ultrasharp/resolve/main/4x-UltraSharp.pth"
+    "https://huggingface.co/vclansience/SD_lora/resolve/3359e937da49baa4c5d05bec162d040c1ebf443f/4xUltrasharp_4xUltrasharpV10.pt"
 )
 
 CONTROLNET_MODELS=(
