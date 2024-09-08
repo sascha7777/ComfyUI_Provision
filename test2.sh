@@ -23,6 +23,7 @@ PIP_PACKAGES=(
 
 NODES=(
     "https://github.com/ltdrdata/ComfyUI-Manager"
+    "https://github.com/cozymantis/human-parser-comfyui-node"
 )
 
 CHECKPOINT_MODELS=(
